@@ -1,4 +1,8 @@
 # RL_practical
+## Authors :
+- Nathan Graveleau
+- Guillaume Pain
+- Francois Wallyn--Orange
 
 ### Course link : 
 
